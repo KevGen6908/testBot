@@ -1,0 +1,64 @@
+Vegetarian
+Vegan
+Gluten-Free
+Lactose-Free
+Nut-Free
+Halal
+Kosher
+Low-Carb
+Low-Sugar
+Pescatarian
+Paleo
+Keto
+Diabetic-Friendly
+Organic
+Non-GMO
+No MSG
+Whole30
+Macrobiotic
+Fish
+Meat
+Fast Food
+Raw Food
+Dairy-Free
+Sugar-Free
+Soy-Free
+Egg-Free
+Shellfish-Free
+Peanut-Free
+Tree Nut-Free
+Whole Grain
+High-Protein
+Low-Fat
+Low-Sodium
+Heart-Healthy
+Mediterranean Diet
+Weight Watchers
+Plant-Based
+Farm-to-Table
+Sustainable
+Seasonal
+Locally Sourced
+Gourmet
+Comfort Food
+Homemade
+Street Food
+Fusion
+Healthy
+Spicy
+Mild
+Kid-Friendly
+Senior-Friendly
+Athlete-Friendly
+Party Food
+Snack
+Dessert
+Breakfast
+Lunch
+Dinner
+Brunch
+Late Night
+Sushi
+Pizza
+Rolls
+Kebab
